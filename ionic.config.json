@@ -1,0 +1,7 @@
+{
+  "name": "login-aleatoreo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
